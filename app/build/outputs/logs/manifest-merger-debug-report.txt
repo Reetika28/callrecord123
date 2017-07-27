@@ -1,0 +1,477 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:2:1-86:12
+	package
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ahextech/.android/build-cache/2591c12146d14c7e9448526b5c3791c0c6202eb4/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebaseui:firebase-ui:0.4.3] /home/ahextech/.android/build-cache/7272b7e7eb481c5dc687dcea871cf47788c4f64c/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:0.4.3] /home/ahextech/.android/build-cache/bed9f824bab2e6689a31d80fe3b326d3913b599e/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:9.2.1] /home/ahextech/.android/build-cache/0bdd8313392d51ef9bf58b9f519d48e183db40d4/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.2.1] /home/ahextech/.android/build-cache/f797f44acbb1edf84b39fdc62ef03ff76122170b/output/AndroidManifest.xml:5:5-43
+MERGED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.11.0] /home/ahextech/.android/build-cache/7f38f2c53762d4ae9ccfe4c78e09b726dc0b8591/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:23.2.1] /home/ahextech/.android/build-cache/8c74d2da78da6c9734392834a2a588af69664c2b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:23.2.1] /home/ahextech/.android/build-cache/19122b24cb50adb2bc69f95c1824aad058408f48/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:24.0.0] /home/ahextech/.android/build-cache/7631be895aca8ec424f257ca13e83a05b7c410e6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0] /home/ahextech/.android/build-cache/72e231586865eb159371edd5fd2aaf6ad891078b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ahextech/.android/build-cache/abb03d6cc3769f5413ca140951ddc42e1c1cb9f5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ahextech/.android/build-cache/0ae5beeae365479f9e4186b267037057686678a7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:9.2.1] /home/ahextech/.android/build-cache/c44066598e749b8d568f87b22e91e9df26d61737/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.2.1] /home/ahextech/.android/build-cache/945b53489277183b2db213cfc87d997e96a9a559/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.2.1] /home/ahextech/.android/build-cache/39f0c7935160f085eab972c4bcf88c438976a193/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth:9.2.1] /home/ahextech/.android/build-cache/706112df6b393ea0b36d77d62175d89a0bfdd7c7/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.2.1] /home/ahextech/.android/build-cache/0b9bf93b769b6a8dc61a3e74648aefe67e289e71/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:multidex:1.0.1] /home/ahextech/.android/build-cache/4383313374439029c358ecca5011c4b3f2f95a21/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-core:9.0.2] /home/ahextech/.android/build-cache/735efac7f5ec499ce4da2aee969783b78019a112/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] /home/ahextech/.android/build-cache/9ef582ae353b281df7bb26828f60b1556f5793fe/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /home/ahextech/.android/build-cache/084cebad1fe022fc1a655d5d13e21b47510350a5/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.2.1] /home/ahextech/.android/build-cache/770aa49d63c4e990312ab49796360bb580b85cf6/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.2.1] /home/ahextech/.android/build-cache/c32fc5732a2848e24d7edf7a63a1a97a8dcb79f5/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] /home/ahextech/.android/build-cache/18104cd38b6d2fe277d9b9c0cbc99602f4fb6df3/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/ahextech/.android/build-cache/841ab5b5ae088e8184b48fba4aebd3ff2d7aa7e8/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ahextech/.android/build-cache/2ba89265332603febf949a9b0307fef9662a37f2/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ahextech/.android/build-cache/6272866ccf2be21c0f5d3288741cec45016cbe28/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ahextech/.android/build-cache/bb50a075705cb2f93a6949849518abe2adc036c5/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ahextech/.android/build-cache/f7ad72ca719300c6ab3bba7e421c8e8c1e1a8121/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ahextech/.android/build-cache/eca7a89e36415eee13833a7bcfebaf6b20e3683e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ahextech/.android/build-cache/f6b08712d0b2c200f557013fb9e070523046e44d/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:7:15-40
+		INJECTED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:9:22-66
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:11:22-72
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:12:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:15:5-72
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:15:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:16:5-73
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:16:22-70
+uses-permission#android.permission.INTERNET
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:17:5-67
+MERGED from [com.firebaseui:firebase-ui:0.4.3] /home/ahextech/.android/build-cache/7272b7e7eb481c5dc687dcea871cf47788c4f64c/output/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:0.4.3] /home/ahextech/.android/build-cache/bed9f824bab2e6689a31d80fe3b326d3913b599e/output/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] /home/ahextech/.android/build-cache/9ef582ae353b281df7bb26828f60b1556f5793fe/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /home/ahextech/.android/build-cache/084cebad1fe022fc1a655d5d13e21b47510350a5/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:17:22-64
+application
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:19:5-84:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ahextech/.android/build-cache/2591c12146d14c7e9448526b5c3791c0c6202eb4/output/AndroidManifest.xml:9:5-20
+MERGED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:11:5-69:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.11.0] /home/ahextech/.android/build-cache/7f38f2c53762d4ae9ccfe4c78e09b726dc0b8591/output/AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:cardview-v7:23.2.1] /home/ahextech/.android/build-cache/8c74d2da78da6c9734392834a2a588af69664c2b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:23.2.1] /home/ahextech/.android/build-cache/19122b24cb50adb2bc69f95c1824aad058408f48/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.0.0] /home/ahextech/.android/build-cache/7631be895aca8ec424f257ca13e83a05b7c410e6/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ahextech/.android/build-cache/abb03d6cc3769f5413ca140951ddc42e1c1cb9f5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ahextech/.android/build-cache/0ae5beeae365479f9e4186b267037057686678a7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-auth:9.2.1] /home/ahextech/.android/build-cache/c44066598e749b8d568f87b22e91e9df26d61737/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.2.1] /home/ahextech/.android/build-cache/945b53489277183b2db213cfc87d997e96a9a559/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.android.gms:play-services-auth:9.2.1] /home/ahextech/.android/build-cache/706112df6b393ea0b36d77d62175d89a0bfdd7c7/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.firebase:firebase-core:9.0.2] /home/ahextech/.android/build-cache/735efac7f5ec499ce4da2aee969783b78019a112/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] /home/ahextech/.android/build-cache/9ef582ae353b281df7bb26828f60b1556f5793fe/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /home/ahextech/.android/build-cache/084cebad1fe022fc1a655d5d13e21b47510350a5/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:9.2.1] /home/ahextech/.android/build-cache/770aa49d63c4e990312ab49796360bb580b85cf6/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.2.1] /home/ahextech/.android/build-cache/c32fc5732a2848e24d7edf7a63a1a97a8dcb79f5/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] /home/ahextech/.android/build-cache/18104cd38b6d2fe277d9b9c0cbc99602f4fb6df3/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/ahextech/.android/build-cache/841ab5b5ae088e8184b48fba4aebd3ff2d7aa7e8/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ahextech/.android/build-cache/2ba89265332603febf949a9b0307fef9662a37f2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ahextech/.android/build-cache/6272866ccf2be21c0f5d3288741cec45016cbe28/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ahextech/.android/build-cache/bb50a075705cb2f93a6949849518abe2adc036c5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ahextech/.android/build-cache/f7ad72ca719300c6ab3bba7e421c8e8c1e1a8121/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ahextech/.android/build-cache/eca7a89e36415eee13833a7bcfebaf6b20e3683e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ahextech/.android/build-cache/f6b08712d0b2c200f557013fb9e070523046e44d/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:20:9-38
+	android:theme
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:23:9-32
+provider#com.talentcodeworks.callrecorder.RecordingProvider
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:25:9-27:70
+	android:authorities
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:27:13-67
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:26:13-46
+receiver#com.talentcodeworks.callrecorder.CallBroadcastReceiver
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:29:9-38:20
+	android:enabled
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:30:13-50
+intent-filter#android.intent.action.NEW_OUTGOING_CALL+android.intent.action.PHONE_STATE
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:34:25-79
+action#android.intent.action.PHONE_STATE
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:35:25-73
+activity#com.talentcodeworks.callrecorder.CallRecorder
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:40:9-50:20
+	android:label
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:41:13-41
+activity#com.talentcodeworks.callrecorder.CallLog
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:51:9-53:48
+	android:label
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:52:13-36
+activity#com.talentcodeworks.callrecorder.CallPlayer
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:54:9-62:20
+	android:label
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:56:13-39
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:55:13-39
+intent-filter#android.intent.action.VIEW
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:57:13-61:29
+action#android.intent.action.VIEW
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:58:17-69
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:58:25-66
+data
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:60:17-52
+	android:mimeType
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:60:23-49
+activity#com.talentcodeworks.callrecorder.Preferences
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:63:9-67:20
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:63:19-46
+intent-filter#com.talentcodeworks.callrecorder.ACTION_USER_PREFERENCE
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:64:13-66:29
+action#com.talentcodeworks.callrecorder.ACTION_USER_PREFERENCE
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:65:17-98
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:65:25-95
+service#com.talentcodeworks.callrecorder.RecordService
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:69:9-58
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:69:18-47
+service#com.talentcodeworks.callrecorder.PlayService
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:70:9-56
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:70:18-45
+activity#com.talentcodeworks.callrecorder.Home
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:72:9-78:20
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:72:19-39
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:73:13-77:29
+action#android.intent.action.MAIN
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:74:17-69
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:74:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:76:17-77
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:76:27-74
+activity#com.talentcodeworks.callrecorder.DescriptionActivity
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:79:9-57
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:79:19-54
+activity#com.talentcodeworks.callrecorder.DescriptionList
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:80:9-53
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:80:19-50
+activity#com.talentcodeworks.callrecorder.RatingBarActivity
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:81:9-55
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:81:19-52
+activity#com.talentcodeworks.callrecorder.ComplaintActivity
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:82:9-55
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:82:19-52
+activity#com.talentcodeworks.callrecorder.ComplaintInfoList
+ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:83:9-55
+	android:name
+		ADDED from /home/ahextech/Downloads/callrecorder-master1/app/src/main/AndroidManifest.xml:83:19-52
+activity#com.firebase.ui.auth.ui.email.ConfirmRecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:12:9-15:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:14:13-53
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:13:13-88
+activity#com.firebase.ui.auth.ui.email.EmailHintContainerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:16:9-19:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:18:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:17:13-84
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:20:9-23:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:22:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:21:13-81
+activity#com.firebase.ui.auth.ui.email.RegisterEmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:24:9-27:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:26:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:25:13-79
+activity#com.firebase.ui.auth.ui.email.SignInNoPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:28:9-31:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:30:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:29:13-82
+activity#com.firebase.ui.auth.ui.email.SignInActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:32:9-35:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:34:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:33:13-72
+activity#com.firebase.ui.auth.ui.account_link.SaveCredentialsActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:36:9-39:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:38:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:37:13-88
+activity#com.firebase.ui.auth.ui.account_link.AccountLinkInitActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:40:9-43:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:42:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:41:13-88
+activity#com.firebase.ui.auth.ui.account_link.WelcomeBackIDPPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:44:9-47:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:46:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:45:13-85
+activity#com.firebase.ui.auth.ui.account_link.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:48:9-51:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:50:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:49:13-90
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:52:9-55:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:54:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:53:13-80
+activity#com.firebase.ui.auth.ui.idp.IDPSignInContainerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:56:9-59:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:58:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:57:13-82
+activity#com.firebase.ui.auth.ui.ChooseAccountActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:60:9-63:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:62:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:61:13-73
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:64:9-68:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:67:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:66:13-96
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:68:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] /home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/AndroidManifest.xml:65:13-57
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ahextech/.android/build-cache/abb03d6cc3769f5413ca140951ddc42e1c1cb9f5/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ahextech/.android/build-cache/0ae5beeae365479f9e4186b267037057686678a7/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ahextech/.android/build-cache/2ba89265332603febf949a9b0307fef9662a37f2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ahextech/.android/build-cache/6272866ccf2be21c0f5d3288741cec45016cbe28/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ahextech/.android/build-cache/bb50a075705cb2f93a6949849518abe2adc036c5/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ahextech/.android/build-cache/f7ad72ca719300c6ab3bba7e421c8e8c1e1a8121/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ahextech/.android/build-cache/eca7a89e36415eee13833a7bcfebaf6b20e3683e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ahextech/.android/build-cache/f6b08712d0b2c200f557013fb9e070523046e44d/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.2.1] /home/ahextech/.android/build-cache/706112df6b393ea0b36d77d62175d89a0bfdd7c7/output/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] /home/ahextech/.android/build-cache/706112df6b393ea0b36d77d62175d89a0bfdd7c7/output/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] /home/ahextech/.android/build-cache/706112df6b393ea0b36d77d62175d89a0bfdd7c7/output/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] /home/ahextech/.android/build-cache/706112df6b393ea0b36d77d62175d89a0bfdd7c7/output/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] /home/ahextech/.android/build-cache/706112df6b393ea0b36d77d62175d89a0bfdd7c7/output/AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.2.1] /home/ahextech/.android/build-cache/706112df6b393ea0b36d77d62175d89a0bfdd7c7/output/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] /home/ahextech/.android/build-cache/706112df6b393ea0b36d77d62175d89a0bfdd7c7/output/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] /home/ahextech/.android/build-cache/706112df6b393ea0b36d77d62175d89a0bfdd7c7/output/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] /home/ahextech/.android/build-cache/706112df6b393ea0b36d77d62175d89a0bfdd7c7/output/AndroidManifest.xml:29:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/ahextech/.android/build-cache/9ef582ae353b281df7bb26828f60b1556f5793fe/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /home/ahextech/.android/build-cache/084cebad1fe022fc1a655d5d13e21b47510350a5/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/ahextech/.android/build-cache/9ef582ae353b281df7bb26828f60b1556f5793fe/output/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/ahextech/.android/build-cache/9ef582ae353b281df7bb26828f60b1556f5793fe/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /home/ahextech/.android/build-cache/084cebad1fe022fc1a655d5d13e21b47510350a5/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/ahextech/.android/build-cache/9ef582ae353b281df7bb26828f60b1556f5793fe/output/AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/ahextech/.android/build-cache/9ef582ae353b281df7bb26828f60b1556f5793fe/output/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /home/ahextech/.android/build-cache/084cebad1fe022fc1a655d5d13e21b47510350a5/output/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/ahextech/.android/build-cache/9ef582ae353b281df7bb26828f60b1556f5793fe/output/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/ahextech/.android/build-cache/9ef582ae353b281df7bb26828f60b1556f5793fe/output/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/ahextech/.android/build-cache/9ef582ae353b281df7bb26828f60b1556f5793fe/output/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/ahextech/.android/build-cache/9ef582ae353b281df7bb26828f60b1556f5793fe/output/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/ahextech/.android/build-cache/9ef582ae353b281df7bb26828f60b1556f5793fe/output/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/ahextech/.android/build-cache/9ef582ae353b281df7bb26828f60b1556f5793fe/output/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /home/ahextech/.android/build-cache/084cebad1fe022fc1a655d5d13e21b47510350a5/output/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/ahextech/.android/build-cache/9ef582ae353b281df7bb26828f60b1556f5793fe/output/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/ahextech/.android/build-cache/9ef582ae353b281df7bb26828f60b1556f5793fe/output/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/ahextech/.android/build-cache/9ef582ae353b281df7bb26828f60b1556f5793fe/output/AndroidManifest.xml:37:11-82
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.2.1] /home/ahextech/.android/build-cache/770aa49d63c4e990312ab49796360bb580b85cf6/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] /home/ahextech/.android/build-cache/770aa49d63c4e990312ab49796360bb580b85cf6/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] /home/ahextech/.android/build-cache/770aa49d63c4e990312ab49796360bb580b85cf6/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] /home/ahextech/.android/build-cache/770aa49d63c4e990312ab49796360bb580b85cf6/output/AndroidManifest.xml:20:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/ahextech/.android/build-cache/1229b941da539ce4a683af5828e1efd9c3fb4915/output/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.2.1] /home/ahextech/.android/build-cache/c32fc5732a2848e24d7edf7a63a1a97a8dcb79f5/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.2.1] /home/ahextech/.android/build-cache/c32fc5732a2848e24d7edf7a63a1a97a8dcb79f5/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.2.1] /home/ahextech/.android/build-cache/c32fc5732a2848e24d7edf7a63a1a97a8dcb79f5/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.2.1] /home/ahextech/.android/build-cache/c32fc5732a2848e24d7edf7a63a1a97a8dcb79f5/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.2.1] /home/ahextech/.android/build-cache/c32fc5732a2848e24d7edf7a63a1a97a8dcb79f5/output/AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.2.1] /home/ahextech/.android/build-cache/841ab5b5ae088e8184b48fba4aebd3ff2d7aa7e8/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.2.1] /home/ahextech/.android/build-cache/841ab5b5ae088e8184b48fba4aebd3ff2d7aa7e8/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.2.1] /home/ahextech/.android/build-cache/841ab5b5ae088e8184b48fba4aebd3ff2d7aa7e8/output/AndroidManifest.xml:22:13-58

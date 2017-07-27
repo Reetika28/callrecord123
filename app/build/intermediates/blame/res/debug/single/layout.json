@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/fragment_firebase_login.xml",
+        "source": "/home/ahextech/.android/build-cache/7272b7e7eb481c5dc687dcea871cf47788c4f64c/output/res/layout/fragment_firebase_login.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/complaintinfo_item.xml",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/layout/complaintinfo_item.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/welcome_back_idp_prompt_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/res/layout/welcome_back_idp_prompt_layout.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/rating_bar.xml",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/layout/rating_bar.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/7f38f2c53762d4ae9ccfe4c78e09b726dc0b8591/output/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/home/ahextech/.android/build-cache/7f38f2c53762d4ae9ccfe4c78e09b726dc0b8591/output/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/ahextech/.android/build-cache/7631be895aca8ec424f257ca13e83a05b7c410e6/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/home/ahextech/.android/build-cache/7f38f2c53762d4ae9ccfe4c78e09b726dc0b8591/output/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/ahextech/.android/build-cache/7631be895aca8ec424f257ca13e83a05b7c410e6/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/ahextech/.android/build-cache/7631be895aca8ec424f257ca13e83a05b7c410e6/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/complaint_item.xml",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/layout/complaint_item.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/ahextech/.android/build-cache/7631be895aca8ec424f257ca13e83a05b7c410e6/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/player.xml",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/layout/player.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/forgot_password_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/res/layout/forgot_password_layout.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/welcome_back_password_prompt_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/res/layout/welcome_back_password_prompt_layout.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/ahextech/.android/build-cache/7631be895aca8ec424f257ca13e83a05b7c410e6/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/home/ahextech/.android/build-cache/7f38f2c53762d4ae9ccfe4c78e09b726dc0b8591/output/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/ahextech/.android/build-cache/7631be895aca8ec424f257ca13e83a05b7c410e6/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/idp_button_google.xml",
+        "source": "/home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/res/layout/idp_button_google.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/home/ahextech/.android/build-cache/7f38f2c53762d4ae9ccfe4c78e09b726dc0b8591/output/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/ahextech/.android/build-cache/7631be895aca8ec424f257ca13e83a05b7c410e6/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/call_log.xml",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/layout/call_log.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/home/ahextech/.android/build-cache/7f38f2c53762d4ae9ccfe4c78e09b726dc0b8591/output/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/ahextech/.android/build-cache/7631be895aca8ec424f257ca13e83a05b7c410e6/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/sign_in_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/res/layout/sign_in_layout.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/feedback.xml",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/layout/feedback.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/ahextech/.android/build-cache/7631be895aca8ec424f257ca13e83a05b7c410e6/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/register_email_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/res/layout/register_email_layout.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/email_hint_container_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/res/layout/email_hint_container_layout.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/home_activity.xml",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/layout/home_activity.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/auth_method_picker_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/res/layout/auth_method_picker_layout.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/preferences.xml",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/layout/preferences.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/row_item.xml",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/layout/row_item.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/delete_credential.xml",
+        "source": "/home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/res/layout/delete_credential.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/tab_indicator.xml",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/layout/tab_indicator.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/ahextech/.android/build-cache/7631be895aca8ec424f257ca13e83a05b7c410e6/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/idp_button_facebook.xml",
+        "source": "/home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/res/layout/idp_button_facebook.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/home/ahextech/.android/build-cache/7f38f2c53762d4ae9ccfe4c78e09b726dc0b8591/output/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/home/ahextech/.android/build-cache/7f38f2c53762d4ae9ccfe4c78e09b726dc0b8591/output/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/home/ahextech/.android/build-cache/7f38f2c53762d4ae9ccfe4c78e09b726dc0b8591/output/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/my_admin.xml",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/layout/my_admin.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/listview.xml",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/layout/listview.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/home.xml",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/layout/home.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/confirm_recovery_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/res/layout/confirm_recovery_layout.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/save_credentials_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/res/layout/save_credentials_layout.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/home/ahextech/.android/build-cache/7f38f2c53762d4ae9ccfe4c78e09b726dc0b8591/output/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/ahextech/.android/build-cache/7631be895aca8ec424f257ca13e83a05b7c410e6/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/ahextech/.android/build-cache/7631be895aca8ec424f257ca13e83a05b7c410e6/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/description.xml",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/layout/description.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/ahextech/.android/build-cache/f1ce64ec60844f9971a34e21c751fb944a6529d4/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/signin_no_password_layout.xml",
+        "source": "/home/ahextech/.android/build-cache/fd12f06960730655a73e5294f7183b71a00b44b4/output/res/layout/signin_no_password_layout.xml"
+    }
+]

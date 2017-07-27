@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/drawable-mdpi/rec.png",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/drawable-mdpi/rec.png"
+    }
+]

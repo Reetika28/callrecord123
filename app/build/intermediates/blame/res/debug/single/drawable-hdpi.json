@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/down_arrow.png",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/drawable-hdpi/down_arrow.png"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/date_icon.png",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/drawable-hdpi/date_icon.png"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/rec.png",
+        "source": "/home/ahextech/Downloads/callrecorder-master1/app/src/main/res/drawable-hdpi/rec.png"
+    }
+]

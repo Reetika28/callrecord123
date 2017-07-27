@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_google.xml",
+        "source": "/home/ahextech/.android/build-cache/7272b7e7eb481c5dc687dcea871cf47788c4f64c/output/res/drawable-anydpi-v21/ic_google.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_twitter.xml",
+        "source": "/home/ahextech/.android/build-cache/7272b7e7eb481c5dc687dcea871cf47788c4f64c/output/res/drawable-anydpi-v21/ic_twitter.xml"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_facebook.xml",
+        "source": "/home/ahextech/.android/build-cache/7272b7e7eb481c5dc687dcea871cf47788c4f64c/output/res/drawable-anydpi-v21/ic_facebook.xml"
+    }
+]

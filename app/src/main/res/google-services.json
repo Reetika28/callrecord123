@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "256014967044",
+    "firebase_url": "https://callrecorder-master1-17c8a.firebaseio.com",
+    "project_id": "callrecorder-master1-17c8a",
+    "storage_bucket": "callrecorder-master1-17c8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256014967044:android:7cf463f703924ae0",
+        "android_client_info": {
+          "package_name": "com.talentcodeworks.callrecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256014967044-868ar86ookbdli5h78qp6lcaeo0mqhfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.talentcodeworks.callrecorder",
+            "certificate_hash": "e653ca71b371715b803b6301c47f9c9d766825e0"
+          }
+        },
+        {
+          "client_id": "256014967044-3mi756fp48hjibdbp65tmrvrdje4u225.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk9YgnInb1-AUgbEgRpjBl8OSCvJP0sFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256014967044-3mi756fp48hjibdbp65tmrvrdje4u225.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

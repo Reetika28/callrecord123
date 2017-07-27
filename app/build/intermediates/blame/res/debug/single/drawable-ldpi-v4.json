@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_facebook.png",
+        "source": "/home/ahextech/.android/build-cache/7272b7e7eb481c5dc687dcea871cf47788c4f64c/output/res/drawable-ldpi-v4/ic_facebook.png"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_twitter.png",
+        "source": "/home/ahextech/.android/build-cache/7272b7e7eb481c5dc687dcea871cf47788c4f64c/output/res/drawable-ldpi-v4/ic_twitter.png"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_google.png",
+        "source": "/home/ahextech/.android/build-cache/7272b7e7eb481c5dc687dcea871cf47788c4f64c/output/res/drawable-ldpi-v4/ic_google.png"
+    },
+    {
+        "merged": "/home/ahextech/Downloads/callrecorder-master1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/ahextech/.android/build-cache/770aa49d63c4e990312ab49796360bb580b85cf6/output/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    }
+]

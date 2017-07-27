@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="135dp"
+        android:text="Your feedback has been successfully recorded"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:paddingTop="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View More Complaints"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:layout_marginTop="42dp"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/textView2"
+        android:gravity="center"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="go to home page"
+        android:layout_marginTop="56dp"
+        android:background="@drawable/button_bg"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentLeft="true" />
+</RelativeLayout>
